@@ -2,7 +2,7 @@
 
 I'm Fouad - a passionate Software Developer and Designer with a love for Computer Science. Welcome to my GitHub profile!
 
-<a href="https://app.daily.dev/fgantri"><img src="https://api.daily.dev/devcards/v2/zkS2XBobsoLSfeQT0XHoH.png?type=default&r=caz" width="356" alt="Fouad Gantri's Dev Card"/></a>
+<a href="https://app.daily.dev/fgantri"><img src="https://api.daily.dev/devcards/v2/zkS2XBobsoLSfeQT0XHoH.png?type=wide&r=caz" width="652" alt="Fouad Gantri's Dev Card"/></a>
 
 ## 🛠️ Skills & Technologies
 - Languages: JavaScript, Python
