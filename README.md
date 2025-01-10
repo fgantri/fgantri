@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**fgantri/fgantri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fouad - a passionate Software Developer and Designer with a love for Computer Science. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+<a href="https://app.daily.dev/fgantri"><img src="https://api.daily.dev/devcards/v2/zkS2XBobsoLSfeQT0XHoH.png?type=default&r=caz" width="356" alt="Fouad Gantri's Dev Card"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- Languages: JavaScript, Python
+- Frameworks: React, Flask
+- Tools: Git, Docker
+
+## 🚀 Projects
+Check out my pinned repositories below.
+
+## 📫 Let's Connect
+- Email: [fouad@gantri.dev](mailto:fouad@gantri.dev)
+- LinkedIn: [Fouad Gantri](www.linkedin.com/in/fgantri)
